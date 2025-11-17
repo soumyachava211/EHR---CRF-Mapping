@@ -1,0 +1,44 @@
+{
+  "hemoglobin": {
+    "cdash_variable": "LBORRES",
+    "loinc_code": "718-7",
+    "attribute": "VALUE",
+    "unit": "g/dL",
+    "keywords": ["hb", "hemoglobin"]
+  },
+  "platelets": {
+    "cdash_variable": "LBORRES",
+    "loinc_code": "777-3",
+    "attribute": "VALUE",
+    "unit": "10^3/uL",
+    "keywords": ["plt", "platelets"]
+  },
+  "collection_date": {
+    "cdash_variable": "LBDAT",
+    "attribute": "DATE"
+  },
+  "collection_time": {
+    "cdash_variable": "LBTIM",
+    "attribute": "TIME"
+  },
+  "heart_rate": {
+    "cdash_variable": "VSPULSE",
+    "attribute": "VALUE",
+    "unit": "bpm"
+  },
+  "diastolic_bp": {
+    "cdash_variable": "VSDIABP",
+    "attribute": "VALUE",
+    "unit": "mmHg"
+  },
+  "height_cm": {
+    "cdash_variable": "VSHEIGHT",
+    "attribute": "VALUE",
+    "unit": "cm"
+  },
+  "weight_kg": {
+    "cdash_variable": "VSWGHT",
+    "attribute": "VALUE",
+    "unit": "kg"
+  }
+}
