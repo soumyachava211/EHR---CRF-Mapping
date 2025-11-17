@@ -1,1 +1,2 @@
+Stores mapping workflow.
 
