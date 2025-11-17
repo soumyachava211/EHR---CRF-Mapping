@@ -1,0 +1,4 @@
+patient_id,hemoglobin,platelets,collection_date,collection_time,heart_rate,diastolic_bp,height_cm,weight_kg
+101,13.4,250000,2025-01-10,09:15,82,75,140,42
+102,11.9,180000,2025-01-11,14:22,101,88,155,55
+103,10.5,195000,2025-01-11,10:00,110,92,148,49
